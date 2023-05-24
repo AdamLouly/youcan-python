@@ -1,4 +1,6 @@
 [![PyPI version](https://badge.fury.io/py/youcan.svg)](https://badge.fury.io/py/youcan)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AdamLouly/youcan-python)
+
 # YouCan Storefront Python SDK
 
 The YouCan Python SDK is a Python package that provides a convenient way to interact with the YouCan storefront API. 
